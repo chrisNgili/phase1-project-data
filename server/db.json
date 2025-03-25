@@ -5,7 +5,7 @@
         "brand": "Nike",
         "model": "Mercurial Superfly",
         "image": "https://www.nike.com.kw/dw/image/v2/BDVB_PRD/on/demandware.static/-/Sites-akeneo-master-catalog/default/dwa9fa979c/nk/9ca/7/c/d/0/8/9ca7cd08_3f1f_4ff1_b84c_1c82a907835b.jpg?sw=930&sh=930&sm=fit&q=80",
-        "price": 6500,
+        "price": "Ksh 6500",
         "sizes": [6, 7, 8, 9, 10],
         "available": 20,
         "description": "Lightweight speed boot with Flyknit upper and dynamic fit collar."
@@ -15,7 +15,7 @@
         "brand": "Nike",
         "model": "Phantom GX",
         "image": "https://www.nike.com.kw/dw/image/v2/BDVB_PRD/on/demandware.static/-/Sites-akeneo-master-catalog/default/dwc2b75baf/nk/109/b/4/6/1/5/109b4615_fc22_493f_beb8_dc04d857c20a.jpg?sw=930&sh=930&sm=fit&q=80",
-        "price": 7000,
+        "price": "Ksh 7000",
         "sizes": [6, 7, 8, 9, 10, 11],
         "available": 15,
         "description": "Designed for precision control with textured grip zones."
@@ -25,7 +25,7 @@
         "brand": "Nike",
         "model": "Tiempo Legend",
         "image": "https://www.nike.com.kw/dw/image/v2/BDVB_PRD/on/demandware.static/-/Sites-akeneo-master-catalog/default/dwd4c53d87/nk/a4a/a/f/0/2/8/a4aaf028_e3f2_4ef8_95c0_3c4b05b5c0bd.jpg?sw=930&sh=930&sm=fit&q=80",
-        "price": 6000,
+        "price": "Ksh 6000",
         "sizes": [7, 8, 9, 10, 11],
         "available": 12,
         "description": "Premium leather boot for comfort and touch."
@@ -35,7 +35,7 @@
         "brand": "Adidas",
         "model": "Predator Elite",
         "image": "https://assets.adidas.com/images/w_1880,f_auto,q_auto/d3af99d0d9e24d63acb4ab6e1401f2d5_9366/JH6421_HM1.jpg",
-        "price": 3500,
+        "price": "Ksh 3500",
         "sizes": [6, 7, 8, 9],
         "available": 18,
         "description": "Enhanced control with rubber grip elements."
@@ -45,7 +45,7 @@
         "brand": "Adidas",
         "model": "X Speedflow",
         "image": "https://assets.adidas.com/images/w_1880,f_auto,q_auto/d915da512cd345d3b5630b727a054f79_9366/IE2376_HM1.jpg",
-        "price": 6000,
+        "price": "Ksh 6000",
         "sizes": [7, 8, 9, 10],
         "available": 10,
         "description": "Ultra-lightweight boot designed for explosive speed."
@@ -55,7 +55,7 @@
         "brand": "Adidas",
         "model": "F50 Elite",
         "image": "https://assets.adidas.com/images/w_1880,f_auto,q_auto/03a247aef59c43ae841d2e317c2f31d8_9366/IE3186_22_model.jpg",
-        "price": 4500,
+        "price": "Ksh 4500",
         "sizes": [6, 7, 8, 9, 10, 11],
         "available": 14,
         "description": "Soft leather boot with anatomical fit for comfort."
@@ -65,7 +65,7 @@
         "brand": "Puma",
         "model": "Future 7",
         "image": "https://images.prodirectsport.com/ProductImages/Main/1025427_Main_1949029.jpg?imwidth=1065",
-        "price": 5000,
+        "price": "Ksh 5000",
         "sizes": [6, 7, 8, 9, 10],
         "available": 16,
         "description": "Adaptive fit boot with FUZIONFIT+ compression band."
@@ -75,7 +75,7 @@
         "brand": "Puma",
         "model": "Ultra 1.1",
         "image": "https://images.prodirectsport.com/ProductImages/Main/1025435_Main_1949250.jpg?imwidth=1065",
-        "price": 3000,
+        "price": "Ksh 3000",
         "sizes": [7, 8, 9, 10, 11],
         "available": 9,
         "description": "Engineered for acceleration with lightweight MATRYXEVO technology."
@@ -85,7 +85,7 @@
         "brand": "Puma",
         "model": "Future Ultimate",
         "image": "https://images.prodirectsport.com/ProductImages/Gallery_1/1025416_Gallery_1_1941626.jpg?imwidth=1065",
-        "price": 4000,
+        "price": "Ksh 4000",
         "sizes": [6, 7, 8, 9, 10, 11],
         "available": 11,
         "description": "Classic leather boot with modern lightweight feel."
